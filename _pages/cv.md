@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Alison%20Chavez%202025%20Resume.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/AlisonChavezResume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [avc35@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +703 489 2535
