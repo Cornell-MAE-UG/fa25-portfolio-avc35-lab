@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Alison Chavez
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Alison Chavez
+description              : Your Name - Projects and Resume
+baseurl                  : "/fa25-portfolio-avc35-lab/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal

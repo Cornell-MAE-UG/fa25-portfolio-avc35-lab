@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Alison Chavez - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/'Alison Chavez 2025 Resume'.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in mechanical design and eager to apply my knowledge in real-world applications.
 
 ---
 
