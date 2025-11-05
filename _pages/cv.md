@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/'Alison Chavez 2025 Resume'.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Alison%20Chavez%202025%20Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [avc35@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +703 489 2535
 
 ---
 
@@ -20,11 +20,11 @@ Aspiring engineering student with a strong foundation in mechanical design and e
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.66/4.0 | Graduation: 2027, May
 
-- **[High School Name]**  
+- **Thomas Jefferson High School for Science and Technology**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2023
 
 ---
 
@@ -36,17 +36,12 @@ Aspiring engineering student with a strong foundation in mechanical design and e
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Cornell Mars Rover]**:  
+  *[Drives Subteam Member]*  
+  - Key Achievement 1: Frame  
+  - Key Achievement 2: Camera Mast
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
----
 
 #### Work Experience
 - **[Company Name] - Intern**  
