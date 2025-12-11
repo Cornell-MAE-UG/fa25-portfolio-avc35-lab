@@ -86,7 +86,7 @@ Torque Wrench Model in Ansys:
 
 ![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.png" | relative_url }}){: .inline-image-l}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }})
 <br />
 Load Point Deflection: 0.503 in
 Strain @ gauge location: 1.4533e-003 in/in
