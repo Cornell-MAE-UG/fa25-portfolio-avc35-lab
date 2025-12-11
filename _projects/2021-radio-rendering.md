@@ -70,7 +70,7 @@ The material we chose was Ti-6Al-4V, a titanium alloy. We choose this material d
 
 Torque Wrench Model in Ansys:
 
-![Photo of FEM model]({{ "/assets/images/mats_q3.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q3.jpg" | relative_url }}){: .full_width}
 <br />
 #4. Normal strain contours (in the strain gauge direction) from FEM<br />
 ![Photo of FEM model]({{ "/assets/images/mats_q4.1.png" | relative_url }}){: .inline-image-l}
