@@ -3,7 +3,7 @@ layout: project
 title: Mechanics of Materials Final Project
 description: Designing a Torque Wrench to meet Design requirements
 technologies: [Autodesk Fusion, ANSYS Mechanical]
-image: /assets/images/mats_final_pic.png
+image: /assets/images/mats_final_pic.png 
 ---
 
 **Our Design Results**
@@ -73,20 +73,20 @@ Torque Wrench Model in Ansys:
 ![Photo of FEM model]({{ "/assets/images/mats_q3.jpg" | relative_url }}){: .full_width}
 <br />
 #4. Normal strain contours (in the strain gauge direction) from FEM<br />
-![Photo of FEM model]({{ "/assets/images/mats_q4.1.png" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q4.1.png" | relative_url }}){: .full_width}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q4_2.png" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q4_2.png" | relative_url }}){: .full_width}
 <br />
 #5. Contour plot of maximum principal stress from FEM<br />
-![Photo of FEM model]({{ "/assets/images/mats_q5_1.png" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q5_1.png" | relative_url }}){: .full_width}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q5_2.png" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q5_2.png" | relative_url }}){: .full_width}
 <br />
 #6. Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations <br />
 
 ![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.png" | relative_url }}){: .full_width}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }})
+![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }}){: .full_width}
 <br />
 Load Point Deflection: 0.503 in
 Strain @ gauge location: 1.4533e-003 in/in
