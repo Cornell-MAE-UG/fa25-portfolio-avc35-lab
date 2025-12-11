@@ -66,6 +66,7 @@ Fatigue FOS: 2.76 <br />
 See the CAD image above. 
 #2. Describe material used and its relevant mechanical properties.<br />
 The material we chose was Ti-6Al-4V, a titanium alloy. We choose this material due to the strong material properties, such as a high tensile strength and high ductility. 
+
 #3. Diagram communicating how loads and boundary conditions were applied to your FEM model.<br />
 
 Torque Wrench Model in Ansys:
@@ -75,6 +76,7 @@ Torque Wrench Model in Ansys:
 #4. Normal strain contours (in the strain gauge direction) from FEM<br />
 ![Photo of FEM model]({{ "/assets/images/mats_q4.1.png" | relative_url }}){: .full_width}
 <br />
+Close-up of driver normal strain contour:
 ![Photo of FEM model]({{ "/assets/images/mats_q4_2.png" | relative_url }}){: .full_width}
 <br />
 #5. Contour plot of maximum principal stress from FEM<br />
@@ -88,16 +90,16 @@ Torque Wrench Model in Ansys:
 <br />
 ![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }}){: .full_width}
 <br />
-Load Point Deflection: 0.503 in
-Strain @ gauge location: 1.4533e-003 in/in
-Max Normal Stress: 45.38 ksi
+Load Point Deflection: 0.503 in <br />
+Strain @ gauge location: 1.4533e-003 in/in <br />
+Max Normal Stress: 45.38 ksi <br />
 
 #7. Torque wrench sensitivity in mV/V using strains from the FEM analysis <br />
 Sensitivity = (strain @ gauge)* 1000 = 1.4533 mV/V <br />
 
 #8. Strain gauge selected (give type and dimensions). Note that the design must physically have enough space to bond the gauges. <br />
 Strain Gauge Selected: SGT-1LH/350-TY11 <br />
-Information: Half-bridge strain gauge, 1.8 mm Grid Length, 5 mm Grid Width 350 Ω Resistance, ST STC Number <br />
-Link: https://www.dwyeromega.com/en-us/uniaxial-half-bridge-strain-gauges-with-transducer-quality/SGT-Half-Bridge-Uniaxial/p/SGT-1LH-350-TY11 <br/>
-It is sensitive enough that our strain max is 30,000 µm and has a carrier length 9.2 mm and a carrier width 4 mm, this fits in our spot as that is 0.36 in x 0.16 in.
+Information: Half-bridge strain gauge, 1.8 mm Grid Length, 5 mm Grid Width 350 Ω Resistance <br />
+Link to selected strain gauge: https://www.dwyeromega.com/en-us/uniaxial-half-bridge-strain-gauges-with-transducer-quality/SGT-Half-Bridge-Uniaxial/p/SGT-1LH-350-TY11 <br/>
+It is sensitive enough that our strain max is 30,000 µm and has a carrier length 9.2 mm and a carrier width 4 mm, this fits in our handle spot as that converted to inches is 0.36 in x 0.16 in.
 
