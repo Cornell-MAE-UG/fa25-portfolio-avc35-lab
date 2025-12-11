@@ -61,7 +61,7 @@ Yield strength FOS: 5.28 <br />
 Crack Growth FOS: 9.77 <br />
 Fatigue FOS: 2.76 <br />
 
-<u> Results</u> 
+<u> Results</u>  <br />
 #1. Image(s) of CAD model. Must show all key dimensions.<br />
 See the CAD image above. 
 #2. Describe material used and its relevant mechanical properties.<br />
@@ -84,7 +84,7 @@ Torque Wrench Model in Ansys:
 <br />
 #6. Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations <br />
 
-![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.png" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.png" | relative_url }}){: .full_width}
 <br />
 ![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }})
 <br />
