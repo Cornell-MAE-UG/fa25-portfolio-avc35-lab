@@ -73,20 +73,20 @@ Torque Wrench Model in Ansys:
 ![Photo of FEM model]({{ "/assets/images/mats_q3.jpg" | relative_url }}){: .inline-image-l}
 <br />
 4. Normal strain contours (in the strain gauge direction) from FEM
-![Photo of FEM model]({{ "/assets/images/mats_q4.1.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q4.1.png" | relative_url }}){: .inline-image-l}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q4_2.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q4_2.png" | relative_url }}){: .inline-image-l}
 <br />
 5. Contour plot of maximum principal stress from FEM
-![Photo of FEM model]({{ "/assets/images/mats_q5_1.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q5_1.png" | relative_url }}){: .inline-image-l}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q5_2.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q5_2.png" | relative_url }}){: .inline-image-l}
 <br />
 6. Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations 
 
-![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.png" | relative_url }}){: .inline-image-l}
 <br />
-![Photo of FEM model]({{ "/assets/images/mats_q6_strain.jpg" | relative_url }}){: .inline-image-l}
+![Photo of FEM model]({{ "/assets/images/mats_q6_strain.png" | relative_url }}){: .inline-image-l}
 <br />
 Load Point Deflection: 0.503 in
 Strain @ gauge location: 1.4533e-003 in/in
