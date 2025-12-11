@@ -62,27 +62,27 @@ Crack Growth FOS: 9.77 <br />
 Fatigue FOS: 2.76 <br />
 
 <u> Results</u> 
-1. Image(s) of CAD model. Must show all key dimensions.
+#1. Image(s) of CAD model. Must show all key dimensions.<br />
 See the CAD image above. 
-2. Describe material used and its relevant mechanical properties.
+#2. Describe material used and its relevant mechanical properties.<br />
 The material we chose was Ti-6Al-4V, a titanium alloy. We choose this material due to the strong material properties, such as a high tensile strength and high ductility. 
-3. Diagram communicating how loads and boundary conditions were applied to your FEM model.
+#3. Diagram communicating how loads and boundary conditions were applied to your FEM model.<br />
 
 Torque Wrench Model in Ansys:
 
 ![Photo of FEM model]({{ "/assets/images/mats_q3.jpg" | relative_url }}){: .inline-image-l}
 <br />
-4. Normal strain contours (in the strain gauge direction) from FEM
+#4. Normal strain contours (in the strain gauge direction) from FEM<br />
 ![Photo of FEM model]({{ "/assets/images/mats_q4.1.png" | relative_url }}){: .inline-image-l}
 <br />
 ![Photo of FEM model]({{ "/assets/images/mats_q4_2.png" | relative_url }}){: .inline-image-l}
 <br />
-5. Contour plot of maximum principal stress from FEM
+#5. Contour plot of maximum principal stress from FEM<br />
 ![Photo of FEM model]({{ "/assets/images/mats_q5_1.png" | relative_url }}){: .inline-image-l}
 <br />
 ![Photo of FEM model]({{ "/assets/images/mats_q5_2.png" | relative_url }}){: .inline-image-l}
 <br />
-6. Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations 
+#6. Summarize results from FEM calculation showing maximum normal stress (anywhere), load point deflection, strains at the strain gauge locations <br />
 
 ![Photo of FEM model]({{ "/assets/images/mats_q6_normstress.png" | relative_url }}){: .inline-image-l}
 <br />
@@ -92,9 +92,9 @@ Load Point Deflection: 0.503 in
 Strain @ gauge location: 1.4533e-003 in/in
 Max Normal Stress: 45.38 ksi
 
-7. Torque wrench sensitivity in mV/V using strains from the FEM analysis
+#7. Torque wrench sensitivity in mV/V using strains from the FEM analysis <br />
 
-8. Strain gauge selected (give type and dimensions). Note that the design must physically have enough space to bond the gauges. 
+#8. Strain gauge selected (give type and dimensions). Note that the design must physically have enough space to bond the gauges. <br />
 Strain Gauge Selected: SGT-1LH/350-TY11 
 1.8 mm Grid Length, 5 mm Grid Width 350 Ω Resistance, ST STC Number
 Link: https://www.dwyeromega.com/en-us/uniaxial-half-bridge-strain-gauges-with-transducer-quality/SGT-Half-Bridge-Uniaxial/p/SGT-1LH-350-TY11 <br/>
