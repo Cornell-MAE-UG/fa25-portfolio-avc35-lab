@@ -9,7 +9,7 @@ image: /assets/images/mats_final_pic.png
 **Our Design Results**
 
 <u>Hand Calculations and Outputs</u> 
-MATLAB Script is included below:
+MATLAB Script is included below: <br />
 %TIME TO DESIGN MY OWN
 %1mV/V output at 600 inlbf
 %X_Yield_strength = 4 
@@ -54,12 +54,12 @@ X_y_strength = su / sigma
 X_CrackGrowth = KIC/Ki
 X_Fatigue = sfatigue / abs(sigma) % Safety factor for fatigue
 
-Max normal stress: 25 ksi
-Deflection at Load Point: 0.4183 in
-Strain @ gauge: 1378.7 microstrain 
-Yield strength FOS: 5.28
-Crack Growth FOS: 9.77
-Fatigue FOS: 2.76
+Max normal stress: 25 ksi <br />
+Deflection at Load Point: 0.4183 in <br />
+Strain @ gauge: 1378.7 microstrain <br />
+Yield strength FOS: 5.28 <br />
+Crack Growth FOS: 9.77 <br />
+Fatigue FOS: 2.76 <br />
 
 Results
 1. Image(s) of CAD model. Must show all key dimensions.
