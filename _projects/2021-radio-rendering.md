@@ -93,10 +93,11 @@ Strain @ gauge location: 1.4533e-003 in/in
 Max Normal Stress: 45.38 ksi
 
 #7. Torque wrench sensitivity in mV/V using strains from the FEM analysis <br />
+Sensitivity = (strain @ gauge)* 1000 = 1.4533 mV/V <br />
 
 #8. Strain gauge selected (give type and dimensions). Note that the design must physically have enough space to bond the gauges. <br />
-Strain Gauge Selected: SGT-1LH/350-TY11 
-1.8 mm Grid Length, 5 mm Grid Width 350 Ω Resistance, ST STC Number
+Strain Gauge Selected: SGT-1LH/350-TY11 <br />
+Information: Half-bridge strain gauge, 1.8 mm Grid Length, 5 mm Grid Width 350 Ω Resistance, ST STC Number <br />
 Link: https://www.dwyeromega.com/en-us/uniaxial-half-bridge-strain-gauges-with-transducer-quality/SGT-Half-Bridge-Uniaxial/p/SGT-1LH-350-TY11 <br/>
 It is sensitive enough that our strain max is 30,000 µm and has a carrier length 9.2 mm and a carrier width 4 mm, this fits in our spot as that is 0.36 in x 0.16 in.
 
