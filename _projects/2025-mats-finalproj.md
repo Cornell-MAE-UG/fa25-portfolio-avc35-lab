@@ -103,3 +103,4 @@ Information: Half-bridge strain gauge, 1.8 mm Grid Length, 5 mm Grid Width 350 Î
 Link to selected strain gauge: https://www.dwyeromega.com/en-us/uniaxial-half-bridge-strain-gauges-with-transducer-quality/SGT-Half-Bridge-Uniaxial/p/SGT-1LH-350-TY11 <br/>
 It is sensitive enough that our strain max is 30,000 Âµm and has a carrier length 9.2 mm and a carrier width 4 mm, this fits in our handle spot as that converted to inches is 0.36 in x 0.16 in.
 
+[Download my final report]({{ "/assets/materials_final_hw.pdf" | relative_url }}) in PDF format. The FEM images are in higher quality in this document. 
