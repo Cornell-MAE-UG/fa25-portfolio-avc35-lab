@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in mechanical design and e
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.66/4.0 | Graduation: 2027, May
+  Graduation: 2027, May
 
 - **Thomas Jefferson High School for Science and Technology**  
   *High School Diploma*  
