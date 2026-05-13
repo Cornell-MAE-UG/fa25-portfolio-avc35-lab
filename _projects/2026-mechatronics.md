@@ -3,10 +3,13 @@ layout: project
 title: Mechatronics Block Collecting Robot
 description: Final Proj for Mechatronics
 technologies: [Schematic Drawing, Arduino, C, CAD, Circuit Design, 3D Printing]
-image: /assets/images/pvpanel.png
+image: /assets/images/robot.jpg
 ---
-Reflection:
 
-The heat transfer problem I chose to reflect on is Question 1 from Problem Set 4. The problem involved a photovoltaic panel with all 3 modes of heat transfer acting within and on several layers of differing materials. From this question, I learned how to derive and draw a thermal resistance network. This allowed me to reinforce the concepts lectured on in class and apply the appropriate equations to determine each thermal resistance of the network. In addition, I was able to apply concepts such as a steady-state energy balance on nodes of the thermal resistance network and how to determine the solar-to-electricity conversion efficiency. These concepts and equations are all key tools to utilize when solving heat transfer problems, and also allowed me to feel more comfortable with the subjects.
+For MAE 3780, my team was tasked to design an autonomous robot meant to collect as many 1" blocks in 60 seconds. 
+Robot Design & Overview:
+We aimed to be simple in our design and strategy. Our strategy was to open ourselves up to being as wide as possible with a 3D printed claw, then to quickly collect in a simple path from one side of the middle to the other. At the start of the match, we wrote our code to open our claw, move forward until the left black border was detected, turn until the opposite color was detected, and then turn again. This allowed our robot to follow a path between the intersection of the blue and yellow section, until the black border was detected, where we would then turn right to go back to our original color section. 
+For our robot, we primarily designed an L-shaped claw that would open us to the maximum legal dimensions upon start. Our claw was composed of two arms and symmetric on either side, with one long thin arm being mounted on one positional servo placed in front of our wheels. We utilized the color sensor to detect blue and yellow and two QTI sensors to detect black at the left or right side of our robot. We bought and utilized the bigger wheels from the lab to increase our speed.
 
-[Download my problem set]({{ "/assets/hw4HT.pdf" | relative_url }}) in PDF format.
+
+[Download my final report]({{ "/assets/robotfinal.pdf" | relative_url }}) in PDF format.
